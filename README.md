@@ -1,4 +1,4 @@
-# Code for "International multi-centre performance evaluation of copolymer-in-oil tissue-mimicking material for acoustic and optical imaging applications. 
+# Code for "International multi-centre performance evaluation of copolymer-in-oil tissue-mimicking material for acoustic and optical imaging applications." 
 
 **Code and data by: Lina Hacker and Thomas Else. Several others contributed to phantom development. Please see the paper for details.**
 
